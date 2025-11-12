@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+pandas>=2.2.0
+folium>=0.15.0
+streamlit-folium>=0.15.0
+python-dotenv>=1.0.0
+geopy<=2.4.1  # Downgraded to be compatible with Python 3.13
